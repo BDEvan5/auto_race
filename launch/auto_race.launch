@@ -1,0 +1,8 @@
+
+
+<launch>
+    <include file="$(find f1tenth_simulator)/launch/simulator.launch"/>
+
+</launch>
+
+
