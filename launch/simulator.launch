@@ -13,7 +13,7 @@
         <rosparam command="load" file="$(find f1tenth_simulator)/params.yaml"/>
     </node>
 
-    <node pkg="auto_race" name="follow_the_gap" type="follow_the_gap.py" output="screen" />
+    <!-- <node pkg="auto_race" name="follow_the_gap" type="follow_the_gap.py" output="screen" /> -->
 
     
     <!-- Launch RVIZ -->
